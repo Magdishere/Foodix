@@ -2,8 +2,8 @@ import { Text, View } from "react-native";
 
 export default function Index() {
   return (
-      <View className="flex-1 items-center justify-center bg-white">
-          <Text className="text-xl font-bold text-red-950">
+      <View className="flex-1 items-center justify-center bg-primary">
+          <Text className="text-2xl text-center font-quicksand-bold text-white">
               Welcome to Foodix!
           </Text>
       </View>
